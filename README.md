@@ -37,3 +37,6 @@ This repository hosts a collection of PowerShell scripts designed for various sy
   ```powershell
   .\ShowLowFreeSpaceDisks.ps1 -FreeSpace 20
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
